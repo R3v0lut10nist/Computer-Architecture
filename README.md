@@ -1,2 +1,1 @@
-# Computer-Architecture
-Codes for CSE-312: Computer Architecture lab
+# Codes for CSE-312: Computer Architecture lab
