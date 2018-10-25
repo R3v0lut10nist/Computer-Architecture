@@ -7,3 +7,4 @@ li     $t1, 2     # temp reg 2
 
 # v0 - reg for return value
 add     $v0, $t0, $t1   
+# end
