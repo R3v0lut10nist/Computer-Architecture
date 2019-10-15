@@ -1,7 +1,7 @@
 .text
 main:
 # code starts from the line below
-
+#Begin
 li     $t0, 1     # temp reg 1 
 li     $t1, 2     # temp reg 2
 
